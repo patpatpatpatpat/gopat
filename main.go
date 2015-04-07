@@ -1,3 +1,7 @@
+// Source: http://www.golang-book.com/
+
+// CHAPTER 2: Your First Program
+
 package main
 
 import "fmt"
